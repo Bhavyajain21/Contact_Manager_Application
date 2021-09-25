@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "371ff436-3315-48ae-b593-c406e5da961c",
+      "name": "Bhavya",
+      "email": "rishikabahvay@gamil.com"
+    },
+    {
+      "id": "20697806-e034-4267-b17b-b4b6a6a4093b",
+      "name": "Naveen",
+      "email": "basireddy@gmail.com"
+    }
+  ]
+}
