@@ -2,10 +2,12 @@
 
 ## Not Yet Deployed, follow the steps to open in the local environment!
 
+## Step-1 :   Download the code zip file.
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-### npm install 
+### Step-2 :  npm install 
 
-### npm start 
+### Step-3 :  npm start 
